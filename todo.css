@@ -177,5 +177,8 @@ select{
     form{
         margin-left: 0.4rem;
     }
+    .fa-trash,.fa-check{
+        width: 20%;
+    }
     
 }
